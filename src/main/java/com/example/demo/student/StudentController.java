@@ -13,7 +13,7 @@ public class StudentController {
 
     private final List<Student> STUDENTS = List.of(
             new Student(1, "James Bond"),
-            new Student(2, "Maria Jones Bond"),
+            new Student(2, "Maria Jones"),
             new Student(3, "Anna Smith")
     );
 
